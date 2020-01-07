@@ -22,9 +22,9 @@
 
 # 研究现状及发展态势
 
-![](C:\Users\15193\Desktop\国内研究现状.png)
+![](https://www.luozijian.com/usr/uploads/2020/01/3467147048.png)
 
-![国外研究现状 ](C:\Users\15193\Desktop\国外研究现状.png)
+![国外研究现状 ](https://www.luozijian.com/usr/uploads/2020/01/3481927597.png)
 
 **发展态势**
 
@@ -61,9 +61,9 @@
 
 # 主要技术路线
 
-![毕设开题报告1](C:\Users\15193\Desktop\毕设开题报告1.png)
+![方案1](https://www.luozijian.com/usr/uploads/2020/01/122467605.png)
 
-![毕设开题报告2](C:\Users\15193\Desktop\毕设开题报告2.png)
+![毕设开题报告2](https://www.luozijian.com/usr/uploads/2020/01/3818679781.png)
 
 **工具**
 
