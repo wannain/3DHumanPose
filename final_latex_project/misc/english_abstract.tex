@@ -1,0 +1,15 @@
+
+\begin{englishabstract}
+
+Owing to the fast development of machine learning technology, the research of target detection based on big data training has been developed quickly. Human pose estimation is one of the hot topics, because human posture has rich information, which can extract a lot of useful feature information. At present, the backbone network is mainly used to train the key points of human body, and the heatmap is used to judge the accurate joint position information.
+
+This paper is based on the research background of 3D human pose estimation. The algorithm framework is mainly divided into two steps. One is to use convolutional neural network structure to analyze and judge the two-dimensional pose of the image, and get the corresponding two-dimensional information. The other is to use the feature information of the image to estimate the depth information of the human body in space, and finally realize the three-dimensional human pose estimation.
+
+Stacked hourglass network is based on residual module, which can effectively avoid the problem of gradient disappearing in the process of back propagation. With the training of a large number of data, experiments on MPII dataset show that higher-order stacked hourglass network can effectively improve the accuracy and average joint error of human pose estimation, and finally complete the two-dimensional human pose estimation with a high accuracy.
+
+In practical application, the reconstruction of depth information is always an important research problem of 3D human pose estimation. Based on the algorithm framework of the eight order stacked hourglass network, the geometric constraints of human body are designed and a depth regression module is proposed. The purpose of this module is to realize the function of estimating three-dimensional pose by using two-dimensional information and how to connect the key points of human body with its center. The experimental results show that the module improves the recognition error of the whole algorithm greatly, and realizes the multi person attitude estimation.
+	
+	\englishkeyword{Human posture estimation, stacked hourglass network, imaging principle, depth regression module}
+\end{englishabstract}
+
+

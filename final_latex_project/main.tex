@@ -1,0 +1,51 @@
+%%% 原作者：王稳（x-magus）
+%%% 相关问题和使用可直接参考Github Repo主页面：https://github.com/x-magus/ThesisUESTC
+%%% 王谭： 针对overleaf在线版本稍加简要更新和修改（未改变论文格式配置文件）
+
+\documentclass[bachelor]{thesis-uestc}
+
+\title{基于几何结构的三维人体姿态估计}{3D human pose estimation algorithm based on geometry}
+
+\author{罗子建}{Luo Zijian}
+\advisor{曾辽原\chinesespace 副教授}{Dr. Liaoyuan Zeng}
+\school{信息与通信工程学院}{School of Information and Communication Engineering}
+\major{物联网工程}{Internet of things}
+\studentnumber{2016010902012}
+
+\begin{document}
+
+\makecover
+% abstract
+\include{misc/chinese_abstract} %中文摘要
+\include{misc/english_abstract} %英文摘要
+
+
+% 目录
+\thesistableofcontents
+
+% thesis contents
+\include{chapter/c1_exordium}  %第一章 绪论
+\include{chapter/c2}        %第二章
+\include{chapter/c3}        %第三章
+\include{chapter/c4}        %第四章
+%\include{chapter/c5}        %第五章
+%\include{chapter/template} %若需添加第六章请用这个模板修改
+
+
+\include{misc/acknowledgement}  %致谢
+
+
+%\nocite{*}
+\thesisbibliography{reference} %参考文献
+
+\include{misc/translate_chinese}
+\include{misc/translate_original}
+
+%\include{misc/appendix}   %附录，论文若无附录则用%将该命令取消
+
+
+
+%\thesisaccomplish{publications} %攻读学位期间取得的成果，若无成果则用%将该命令取消
+
+
+\end{document}
